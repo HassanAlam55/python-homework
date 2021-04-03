@@ -5,4 +5,4 @@ For Columbia Fintech Bootcamp HW 2
 
 Hassan Alam
 
-To test run all "main.ipynb" in each folder.
+To test run all "main.ipynb" in each "main" sub-folder of PyBank and PyRamen.
